@@ -1,2 +1,2 @@
-# crafted
-You can order special gifts for someone's special day.
+# Crafted-lover
+You can order speacial gift for someone's speacial day.
